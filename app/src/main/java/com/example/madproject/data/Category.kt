@@ -14,3 +14,5 @@ enum class Category(val label: String, val color: Color) {
     Shopping("Shopping", CategoryShopping),
     Health("Health", CategoryHealth)
 }
+
+// completed
